@@ -1,0 +1,1 @@
+[{"id":"2ce80441.2a225c","type":"http in","z":"1d23a723.a4c7a9","name":"Set GPIO5","url":"/setgpio5","method":"get","upload":false,"swaggerDoc":"","x":110,"y":160,"wires":[["8927e79a.ac1488","3dac0fc6.36c7b"]]}]
